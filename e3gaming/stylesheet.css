@@ -1,5 +1,6 @@
 html{
 background-image: url(e3background.jpg);
+background-size:     cover;
 font-family: 'Share Tech Mono', monospace;
 }
 .header{
