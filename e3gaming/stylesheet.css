@@ -12,7 +12,7 @@ color: white;
     background: linear-gradient(to right ,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C); 
 }
 .location_text{
-    width: 400px;
+    /*width: 400px;*/
     background: -webkit-linear-gradient(left,black,#7B7D7C);
     background: -o-linear-gradient(left,black,#7B7D7C);
     background: -moz-linear-gradient(left,black,#7B7D7C);
