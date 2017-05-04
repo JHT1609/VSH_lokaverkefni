@@ -18,3 +18,7 @@ color: white;
     background: -moz-linear-gradient(left,black,#7B7D7C);
     background: linear-gradient(to right ,black,#7B7D7C); 
 }
+a{
+    color: white;
+    text-decoration: none;
+}
