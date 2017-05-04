@@ -1,17 +1,20 @@
 html{
 background-image: url(e3background.jpg);
-background-size:     cover;
+background-size:cover;
 font-family: 'Share Tech Mono', monospace;
+color: white;
 }
 .header{
-    #color: #25F3FA;
-    background: red; /* For browsers that do not support gradients */
-  /* For Safari 5.1 to 6.0 */
-  background: -webkit-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
-  /* For Opera 11.1 to 12.0 */
-  background: -o-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
-  /* For Fx 3.6 to 15 */
-  background: -moz-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
-  /* Standard syntax */
-  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+    background: red;
+    background: -webkit-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
+    background: -o-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
+    background: -moz-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
+    background: linear-gradient(to right ,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C); 
+}
+.location_text{
+    width: 400px;
+    background: -webkit-linear-gradient(left,black,#7B7D7C);
+    background: -o-linear-gradient(left,black,#7B7D7C);
+    background: -moz-linear-gradient(left,black,#7B7D7C);
+    background: linear-gradient(to right ,black,#7B7D7C); 
 }
