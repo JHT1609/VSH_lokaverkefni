@@ -4,6 +4,12 @@ background-size:cover;
 font-family: 'Share Tech Mono', monospace;
 color: white;
 }
+.flright{
+  float: right;
+}
+.center{
+  padding-left: 70px;
+}
 .header{
     background: red;
     background: -webkit-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
