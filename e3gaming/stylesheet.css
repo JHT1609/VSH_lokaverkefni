@@ -16,6 +16,7 @@ color: white;
     background: -o-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
     background: -moz-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
     background: linear-gradient(to right ,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C); 
+    margin-top: 0px;
 }
 .location_text{
     /*width: 400px;*/
@@ -23,6 +24,10 @@ color: white;
     background: -o-linear-gradient(left,black,#7B7D7C);
     background: -moz-linear-gradient(left,black,#7B7D7C);
     background: linear-gradient(to right ,black,#7B7D7C); 
+}
+.btmtxt{
+  margin-bottom: 0px;
+  margin-top: 17px;
 }
 a{
     color: white;
