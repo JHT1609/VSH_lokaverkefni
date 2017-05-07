@@ -4,6 +4,10 @@ background-size:cover;
 font-family: 'Share Tech Mono', monospace;
 color: white;
 }
+.leikir img{
+  float: left;
+  width: 25%
+}
 .asd{
   height: 42px;
   padding: 0px;
