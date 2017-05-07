@@ -25,7 +25,6 @@ li{
 .flright{
   float: right;
 }
-
 .header{
     background: red;
     background: -webkit-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
@@ -54,4 +53,10 @@ a{
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+
+@media(max-width: 1066px) {
+  li{
+    font-size: .5em;
+  }
 }
