@@ -4,6 +4,23 @@ background-size:cover;
 font-family: 'Share Tech Mono', monospace;
 color: white;
 }
+.asd{
+  height: 42px;
+  padding: 0px;
+  background-color: black;
+}
+li{
+  float: left;
+  list-style: none;
+  padding: 0 90px;
+  text-align: center;
+  line-height: 42px;
+  height: 42px;
+}
+.pdnglf{
+  /*padding-left: 443px;*/
+  padding-left: 283px;
+}
 .flright{
   float: right;
 }
@@ -17,6 +34,7 @@ color: white;
     background: -moz-linear-gradient(left,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C);
     background: linear-gradient(to right ,black,#7B7D7C,black,#7B7D7C,black,#7B7D7C); 
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 .location_text{
     /*width: 400px;*/
