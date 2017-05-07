@@ -12,14 +12,15 @@ color: white;
 li{
   float: left;
   list-style: none;
-  padding: 0 90px;
+  /*padding: 0 90px;*/
+  padding: 0 7%;
   text-align: center;
   line-height: 42px;
   height: 42px;
 }
 .pdnglf{
-  /*padding-left: 443px;*/
-  padding-left: 283px;
+  /*padding-left: 283px;*/
+  padding-left: 18%;
 }
 .flright{
   float: right;
